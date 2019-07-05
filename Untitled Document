@@ -1,0 +1,48 @@
+    
+
+
+
+
+
+
+
+
+
+
+                            step1. initialize the git
+                                 git nit
+
+
+
+                            step2. config the git
+                              name and email 
+                            git config user.name <name>
+                            git config user.email<mail>
+                            
+
+
+                          step3. creating a folder in desktop/python/git name git
+
+
+
+
+                          step4.echo command is written some data to the file  
+                          --> first ddata will be written 
+                          -->second time data will be written
+                          so we want to add two(>>) for second time when data is written
+
+
+
+
+
+step5. check the status -- git status
+untracked file
+moving file from untracked file to -- staging area (git add <filename)
+moving the file from staging are to git repositary 
+git commit -m 'message'
+check status --git status
+working is clean
+  step6. login into github
+sign-login sucessful
+new repository --right top --give repository name
+
